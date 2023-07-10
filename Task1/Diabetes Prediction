@@ -1,1 +1,1 @@
-
+Here, diabetes prediction is done using the dataset available on kaggle. I used logistic regression, k-means, SVM, Naive Bayes algorithm in order to make a comparison of which algorithm works in the best way
